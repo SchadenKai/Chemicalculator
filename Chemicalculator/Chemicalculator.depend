@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685942005 source:c:\users\kairu\onedrive\documents\github\chemicalculator\chemicalculator\main.cpp
+	<iostream>
+	<string>
+	<cwchar>
+	<windows.h>
+	<conio.h>
+
